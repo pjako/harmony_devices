@@ -1,0 +1,15 @@
+name: harmony_devices
+description: Harmony3d Devices
+dependencies:
+  box2d:
+    path: /Users/jako/projects_dart/dart-box2d
+  dullet_physics:
+    path: /Users/jako/projects_dart/dullet_physics
+  resources_io:
+    path: /Users/jako/projects_dart/resources_io
+  simple_audio:
+    path: /Users/jako/projects_dart/simpleaudio
+  spectre:
+    git: https://github.com/johnmccutchan/spectre.git
+  vector_math:
+    git: https://github.com/johnmccutchan/vector_math.git
